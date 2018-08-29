@@ -1,0 +1,12 @@
+c:\users\auus\documents\visual studio 2015\Projects\YmodemTest\YmodemTest\bin\Debug\YmodemTest.exe.config
+c:\users\auus\documents\visual studio 2015\Projects\YmodemTest\YmodemTest\bin\Debug\YmodemTest.exe
+c:\users\auus\documents\visual studio 2015\Projects\YmodemTest\YmodemTest\bin\Debug\YmodemTest.pdb
+c:\users\auus\documents\visual studio 2015\Projects\YmodemTest\YmodemTest\obj\Debug\YmodemTest.Form1.resources
+c:\users\auus\documents\visual studio 2015\Projects\YmodemTest\YmodemTest\obj\Debug\YmodemTest.Properties.Resources.resources
+c:\users\auus\documents\visual studio 2015\Projects\YmodemTest\YmodemTest\obj\Debug\YmodemTest.csproj.GenerateResource.Cache
+c:\users\auus\documents\visual studio 2015\Projects\YmodemTest\YmodemTest\obj\Debug\YmodemTest.exe
+c:\users\auus\documents\visual studio 2015\Projects\YmodemTest\YmodemTest\obj\Debug\YmodemTest.pdb
+c:\users\auus\documents\visual studio 2015\Projects\YmodemTest\YmodemTest\obj\Debug\YmodemTest.csprojResolveAssemblyReference.cache
+E:\my_code\ymodem_test_20180829\ymodem_test\YmodemTest\bin\Debug\YmodemTest.exe.config
+E:\my_code\ymodem_test_20180829\ymodem_test\YmodemTest\obj\Debug\YmodemTest.exe
+E:\my_code\ymodem_test_20180829\ymodem_test\YmodemTest\obj\Debug\YmodemTest.pdb
